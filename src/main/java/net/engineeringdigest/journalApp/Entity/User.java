@@ -11,7 +11,7 @@ import org.springframework.data.mongodb.core.index.Indexed;
 import java.util.ArrayList;
 import java.util.List;
 
-@Document(collation = "users")
+@Document(collation = "userss")
 @Data
 public class User {
 
